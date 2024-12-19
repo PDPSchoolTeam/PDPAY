@@ -1,4 +1,4 @@
-#PDPAY
+<h1>PDPAY</h1>
 
 PDPAYBot — foydalanuvchilarga o‘z to‘lovlarini boshqarish, hisoblarni tekshirish va tranzaksiyalarni amalga oshirish imkonini beruvchi Telegram bot. Ushbu bot orqali foydalanuvchilar o‘z hisoblariga kirish, balansni tekshirish, to‘lovlarni amalga oshirish va tranzaksiyalar tarixini ko‘rishlari mumkin.
 Xususiyatlar
@@ -8,35 +8,35 @@ Xususiyatlar
     To‘lovlarni amalga oshirish: Turli xizmatlar uchun to‘lovlarni amalga oshirish.
     Tranzaksiyalar tarixi: Oldingi tranzaksiyalarni ko‘rish va kuzatish.
 
-O‘rnatish
+<h2>O‘rnatish</h2>
 
-Loyihani klonlash:
+1.Loyihani klonlash:
 
     git clone https://github.com/PDPSchoolTeam/PDPAY.git
     cd PDPAY
 
-Virtual muhit yaratish (ixtiyoriy, lekin tavsiya etiladi):
+2.Virtual muhit yaratish (ixtiyoriy, lekin tavsiya etiladi):
 
     python -m venv venv
     source venv/bin/activate  # Linux/MacOS
     venv\Scripts\activate  # Windows
 
-Talab qilinadigan kutubxonalarni o‘rnatish:
+3.Talab qilinadigan kutubxonalarni o‘rnatish:
 
     pip install -r requirements.txt
 
-Sozlash
+4.Sozlash
 
     config.py faylini tahrirlash: Bot sozlamalarini moslashtirish uchun config.py faylini o‘zgartiring.
 
 Ma'lumotlar bazasi sozlamalari: database papkasidagi fayllarni tekshiring va kerakli sozlamalarni kiriting.
 
-Ishga tushirish
+5.Ishga tushirish
 
     python main.py
 
 
-Hissa qo‘shish
+<h2>Hissa qo‘shish</h2>
 
 Hissangizni qo‘shish uchun quyidagi amallarni bajaring:
 
@@ -46,7 +46,7 @@ Hissangizni qo‘shish uchun quyidagi amallarni bajaring:
     O‘zgarishlarni push qiling: git push origin my-feature
     Pull request yarating.
 
-Litsenziya
+<h2>Litsenziya</h2>
 
 Ushbu loyiha MIT litsenziyasi ostida tarqatiladi. Qo‘shimcha ma'lumot uchun LICENSE faylini ko‘ring.
 Aloqa
