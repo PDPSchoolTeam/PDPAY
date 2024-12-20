@@ -1,6 +1,6 @@
 <h1>PDPAY</h1>
 
-![PDPAY](./pdppay.png)
+![pdpay](https://github.com/user-attachments/assets/7e9b9c94-4688-49fb-9603-7772d3b00f2e)
 
 PDPAYBot — foydalanuvchilarga o‘z to‘lovlarini boshqarish, hisoblarni tekshirish va tranzaksiyalarni amalga oshirish imkonini beruvchi Telegram bot. Ushbu bot orqali foydalanuvchilar o‘z hisoblariga kirish, balansni tekshirish, to‘lovlarni amalga oshirish va tranzaksiyalar tarixini ko‘rishlari mumkin.
 Xususiyatlar
